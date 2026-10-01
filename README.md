@@ -1,4 +1,4 @@
- ## Hi there, I'm Livi!
+ ## Hi there, I'm Livi! 👋😊
 
 I'm a Computer Scientist passionate about building efficient and scalable solutions. My academic background gave me a strong foundation in algorithms 🧮, data structures 🗂️, software development 💻, databases 🗄️, and probability & statistics 📊.
 
